@@ -1,0 +1,9 @@
+li a {
+  color : black;
+  font-size: 50;
+  font-style: italic;
+  text-decoration-color: black;
+}
+body {
+  background : white url("images/background.jpg") ;
+}
